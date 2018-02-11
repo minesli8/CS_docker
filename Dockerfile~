@@ -1,0 +1,3 @@
+From python:3
+Add hello_world.py /
+CMD ["python", "Hello_World.py"]
