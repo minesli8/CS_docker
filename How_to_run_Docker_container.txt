@@ -1,0 +1,14 @@
+1. Test running the hello-world image:
+docker run hello-world
+
+2. Search for an image:
+docker search bear-test1
+
+3. Download the image:
+docker pull bear-test1
+
+4. Check if the image is downloaded:
+docker images
+
+5. Run the container of the iamge:
+docker run bear-test1

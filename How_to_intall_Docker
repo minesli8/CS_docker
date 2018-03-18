@@ -12,7 +12,7 @@ sudo apt-get update
 4. Make sure you are about to install from the Docker repo instead of the default Ubuntu 16.04 repo:
 apt-cache policy docker-ce
 
-5. install Docker:
+5. Install Docker:
 sudo apt-get install -y docker-ce
 
 6. Check that the Docker deamon is running:
