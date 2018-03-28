@@ -1,4 +1,4 @@
-1. Tag your built image:
+1. Tag the image you have built:
 docker tag your_image docker-registry-username/image_tag
 
 2. docker login -u docker-registry-username
